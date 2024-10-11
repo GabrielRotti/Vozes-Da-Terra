@@ -4,14 +4,6 @@
 
 ### Projeto Educativo Interativo sobre Culturas Indígenas
 
-## 📚 Índice
-
-- [Objetivo](#🎯-objetivo)
-- [Status do Projeto](#🚧-status-do-projeto)
-- [Uso](#📚-uso)
-- [Tecnologias Utilizadas](#🛠-tecnologias-utilizadas)
-- [Contato](#📞-contato)
-
 ---
 
 ## 🎯 Objetivo
