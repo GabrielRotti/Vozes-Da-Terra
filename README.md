@@ -1,4 +1,4 @@
-# **[Vozes da Terra]**
+# **Vozes da Terra**
 
 
 
@@ -16,7 +16,7 @@
 
 ## 🎯 Objetivo
 
-**[Nome do Software]** é um projeto educacional interativo voltado para o ensino de culturas indígenas, com foco em atividades interativas, conteúdo cultural e exercícios linguísticos.
+**Vozes da Terra** é um projeto educacional interativo voltado para o ensino de culturas indígenas, com foco em atividades interativas, conteúdo cultural e exercícios linguísticos.
 
 ## 🚧 Status do Projeto
 
