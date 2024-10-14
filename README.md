@@ -7,7 +7,7 @@
 ---
 ## 🎮 Demonstração
 
-Experimente o Vozes da Terra(https://gabrielrotti.github.io/Godot-Web-GL-Test/) diretamente no navegador!
+Experimente o Vozes da Terra(https://gabrielrotti.github.io/Vozes-Da-Terra/)diretamente no navegador!
 
 ---
 
