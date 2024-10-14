@@ -11,6 +11,12 @@ Experimente o Vozes da Terra(https://gabrielrotti.github.io/Vozes-Da-Terra/)dire
 
 ---
 
+## 💬 Feedback
+
+Deixe seu Feedback através do link: https://forms.gle/YfoYGP9Dn46npwDG7
+
+---
+
 ## 🎯 Objetivo
 
 **Vozes da Terra** é um projeto educacional interativo voltado para o ensino de culturas indígenas, com foco em atividades interativas, conteúdo cultural e exercícios linguísticos.
