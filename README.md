@@ -37,7 +37,7 @@ Este software é ideal para ser utilizado em contextos educacionais e aulas, sej
 
 ## 🛠 Tecnologias Utilizadas
 
-Godot Engine 4.x: Framework principal para desenvolvimento de jogos e softwares interativos.
+Godot Engine 4.3: Framework principal para desenvolvimento de jogos e softwares interativos.
 GDScript: Linguagem de programação utilizada para desenvolver a lógica do jogo.
 
 ## 📞 Contato
